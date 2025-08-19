@@ -1,6 +1,6 @@
 # Coffee Shop Sales Dashboard
 
-![Dashboard Snapshot](Dashboard.png)
+![Coffee shop Analysis](Coffee shop Analysis.png)
 
 An interactive Excel-based dashboard that visualizes your coffee shop’s sales performance, including transactions, revenue, profit, and insights by product category and city.
 
